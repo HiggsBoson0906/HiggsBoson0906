@@ -1,7 +1,7 @@
 ```markdown
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Tejasvi Mahule
 
-🎓 B.Tech CSE Student  
+🎓 B.Tech CSE Student at NIT raipur
 💻 Passionate about Programming, DSA & Web Development  
 🚀 Exploring Open Source and Competitive Programming  
 
