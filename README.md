@@ -23,20 +23,89 @@
 
   <br/><br/>
 
+
 <!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
+<hr/>
 
-<div align="center">
+<h2>🚀 Featured Projects</h2>
 
+<!-- CloudPulse -->
+<h3>☁️ <a href="https://github.com/HiggsBoson0906/CloudPulse">CloudPulse — Distributed Cloud Monitoring & Alerting Platform</a></h3>
+
+> An event-driven cloud monitoring platform designed to collect service metrics, track system health, and support timely alerts. Built around a backend architecture using Kafka, Redis, and PostgreSQL.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+<p>
   <a href="https://github.com/HiggsBoson0906/CloudPulse">
-    <img src="https://github-readme-stats-8h0agqc55-phoenixs-projects-82974f24.vercel.app/api/pin/?username=HiggsBoson0906&repo=CloudPulse&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="CloudPulse" />
+    <img src="https://img.shields.io/badge/Explore%20Project-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore CloudPulse"/>
   </a>
+</p>
 
+<hr/>
+
+
+<!-- Featured Projects -->
+<hr/>
+
+<h2>🚀 Featured Projects</h2>
+
+<!-- CloudPulse -->
+<h3>☁️ <a href="https://github.com/HiggsBoson0906/CloudPulse">CloudPulse — Distributed Cloud Monitoring & Alerting Platform</a></h3>
+
+> An event-driven cloud monitoring platform designed to collect service metrics, track system health, and support timely alerts. Built around a backend architecture using Kafka, Redis, and PostgreSQL.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+<p>
+  <a href="https://github.com/HiggsBoson0906/CloudPulse">
+    <img src="https://img.shields.io/badge/Explore%20Project-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore CloudPulse"/>
+  </a>
+</p>
+
+<hr/>
+
+<!-- J.A.R.V.I.S -->
+<h3>🤖 <a href="https://github.com/HiggsBoson0906/J.A.R.V.I.Sv1.0">J.A.R.V.I.S — AI-Powered Study & Productivity Platform</a></h3>
+
+> An AI-powered productivity platform designed to support study planning and everyday tasks, combining a React frontend with a Node.js and Express backend and Gemini API integration.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+<p>
   <a href="https://github.com/HiggsBoson0906/J.A.R.V.I.Sv1.0">
-    <img src="https://github-readme-stats-8h0agqc55-phoenixs-projects-82974f24.vercel.app/api/pin/?username=HiggsBoson0906&repo=J.A.R.V.I.Sv1.0&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="J.A.R.V.I.S" />
+    <img src="https://img.shields.io/badge/Explore%20Project-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Explore J.A.R.V.I.S"/>
   </a>
+</p>
 
-</div>
+<hr/>
+
+
+<hr/>
+
 
   <!-- Connect With Me -->
   <a href="https://www.linkedin.com/in/phoenix0907/">
