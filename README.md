@@ -23,6 +23,21 @@
 
   <br/><br/>
 
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+  <a href="https://github.com/HiggsBoson0906/CloudPulse">
+    <img src="https://github-readme-stats-8h0agqc55-phoenixs-projects-82974f24.vercel.app/api/pin/?username=HiggsBoson0906&repo=CloudPulse&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="CloudPulse" />
+  </a>
+
+  <a href="https://github.com/HiggsBoson0906/J.A.R.V.I.Sv1.0">
+    <img src="https://github-readme-stats-8h0agqc55-phoenixs-projects-82974f24.vercel.app/api/pin/?username=HiggsBoson0906&repo=J.A.R.V.I.Sv1.0&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="J.A.R.V.I.S" />
+  </a>
+
+</div>
+
   <!-- Connect With Me -->
   <a href="https://www.linkedin.com/in/phoenix0907/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
