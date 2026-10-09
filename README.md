@@ -107,7 +107,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Structures-22D3EE?style=flat-square&logoColor=white" alt="Data Structures"/>
   <img src="https://img.shields.io/badge/Algorithms-A78BFA?style=flat-square&logoColor=white" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/Dynamic_Programming-10B981?style=flat-square&logoColor=white" alt="Dynamic Programming"/>
   <img src="https://img.shields.io/badge/Problem_Solving-FFA116?style=flat-square&logoColor=white" alt="Problem Solving"/>
 </p>
 <!-- GitHub Contribution Snake -->
