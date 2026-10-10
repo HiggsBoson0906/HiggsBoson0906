@@ -10,6 +10,12 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center">
+<a href="https://www.linkedin.com/in/phoenix0907/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=EF4444"
+    alt="LinkedIn"
+  />
+</a>
   <a href="mailto:tmtechz2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-1A0D08?style=for-the-badge&logo=gmail&logoColor=FBBF24" alt="Email" />
   </a>
@@ -19,7 +25,7 @@
   <a href="https://github.com/HiggsBoson0906?tab=followers">
     <img src="https://img.shields.io/github/followers/HiggsBoson0906?style=for-the-badge&logo=github&logoColor=F97316&label=Followers&labelColor=1A0D08&color=3B1D12" alt="Followers" />
   </a>
-  <a href="https://www.linkedin.com/in/phoenix0907/"><img src="https://img.shields.io/badge/LinkedIn-1A0D08?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F97316" alt="LinkedIn"/></a>
+ 
 </p>
 
 <p align="center">
