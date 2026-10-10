@@ -11,21 +11,17 @@
 </div>
 
 <hr/> 
-<!-- Animated Tech Stack -->
 <hr/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <i>My tools, revolving around the things I build.</i>
-</p>
-
-<p align="center">
+  
   <img
-    src="./tech-stack-carousel.gif"
-    alt="Animated rotating tech stack carousel"
-    width="100%"
-  />
+      src="./tech-stack-gallery.gif"
+      alt="Animated rotating tech stack carousel"
+      width="100%"
+   />
 </p>
 
 <hr/>
