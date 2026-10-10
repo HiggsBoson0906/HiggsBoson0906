@@ -80,7 +80,7 @@
 
 <br/>
 
-<img src="./tech-stack-gallery.gif" alt="Animated rotating tech stack carousel" width="100%"/>
+<img src="./tech-stack-gallery.gif" alt="Animated rotating tech stack carousel" width="70%" height="170"/>
 </div>
 
 <br/>
