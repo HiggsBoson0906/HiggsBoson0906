@@ -164,7 +164,7 @@
 <td align="center" width="33%">
 <a href="https://leetcode.com/u/Qute_009/"><img src="https://img.shields.io/badge/LEETCODE-1796-1A0D08?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode Rating 1796"/></a>
 <br/><br/>
-<b>804 PROBLEMS SOLVED</b><br/>
+<b>1000+ PROBLEMS SOLVED</b><br/>
 <sub>Contest Rating: 1796</sub>
 </td>
 </tr>
