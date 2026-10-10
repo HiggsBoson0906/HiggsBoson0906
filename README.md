@@ -1,3 +1,4 @@
+
 <!-- PHOENIX INTRO -->
 <p align="center">
   <img
@@ -7,28 +8,26 @@
   />
 </p>
 
+<!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://github.com/HiggsBoson0906">
-    <img src="https://img.shields.io/badge/GitHub-HiggsBoson0906-161B22?style=for-the-badge&logo=github" />
+  <a href="mailto:tmtechz2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1A0D08?style=for-the-badge&logo=gmail&logoColor=FBBF24" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/phoenix0907/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://drive.google.com/file/d/17xOl2WmACaLsY0k-vetwXafyLD9RMerP/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Portfolio-1A0D08?style=for-the-badge&logo=googledrive&logoColor=EF4444" alt="Portfolio" />
   </a>
+  <a href="https://github.com/HiggsBoson0906?tab=followers">
+    <img src="https://img.shields.io/github/followers/HiggsBoson0906?style=for-the-badge&logo=github&logoColor=F97316&label=Followers&labelColor=1A0D08&color=3B1D12" alt="Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/phoenix0907/"><img src="https://img.shields.io/badge/LinkedIn-1A0D08?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F97316" alt="LinkedIn"/></a>
 </p>
 
-<a href="https://github.com/HiggsBoson0906">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Building+event-driven+backend+systems;Turning+market+data+into+ML+signals;Codeforces+Expert+%C2%B7+LeetCode+1796;Rising+from+every+failed+build" alt="Typing animation"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/HiggsBoson0906">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=760&height=48&lines=Building+event-driven+backend+systems;Turning+market+data+into+ML+signals;Codeforces+Expert+%C2%B7+LeetCode+1796;Rising+from+every+failed+build" alt="Typing animation" />
+  </a>
+</p>
 <br/>
-
-<a href="https://www.linkedin.com/in/phoenix0907/"><img src="https://img.shields.io/badge/LinkedIn-1A0D08?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F97316" alt="LinkedIn"/></a>
-<a href="mailto:tmtechz2006@gmail.com"><img src="https://img.shields.io/badge/Email-1A0D08?style=for-the-badge&amp;logo=gmail&amp;logoColor=FBBF24" alt="Email"/></a>
-<a href="https://drive.google.com/file/d/17xOl2WmACaLsY0k-vetwXafyLD9RMerP/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-1A0D08?style=for-the-badge&amp;logo=googledrive&amp;logoColor=EF4444" alt="Portfolio"/></a>
-<a href="https://github.com/HiggsBoson0906?tab=followers"><img src="https://img.shields.io/github/followers/HiggsBoson0906?style=for-the-badge&amp;logo=github&amp;logoColor=F97316&amp;label=Followers&amp;labelColor=1A0D08&amp;color=3B1D12" alt="Followers"/></a>
-
-<br/><br/>
-
 <img width="100%" src="https://streak-stats.demolab.com/?user=HiggsBoson0906&amp;hide_border=true&amp;background=1A0D08&amp;stroke=F97316&amp;ring=FBBF24&amp;fire=EF4444&amp;currStreakLabel=F97316&amp;sideLabels=A8A29E&amp;currStreakNum=FFF7ED&amp;sideNums=FFF7ED&amp;dates=78716C&amp;card_width=1180" alt="GitHub Contribution Streak"/>
 
 </div>
