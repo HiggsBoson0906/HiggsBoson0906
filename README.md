@@ -55,7 +55,7 @@
 <li>Building <b>CloudPulse</b>, a distributed cloud monitoring platform, and <b>Financial Intelligence Terminal (FIT)</b>, a quantitative financial intelligence system.</li>
 <li>Exploring system design, event-driven architectures, machine learning and Generative AI.</li>
 <li>Always learning, building and turning complex ideas into practical solutions.</li>
-<li>Hopelessly obsessed with <b>cats</b>. If there's a cat nearby, my focus is gone and the debugging can wait.</li>
+<li>Hopelessly obsessed with <b>cats</b>. If there's a cat nearby, my focus is gone and the debugging can wait,JK.</li>
 </ul>
 <p>
 <img src="https://img.shields.io/badge/Backend_Engineering-1A0D08?style=flat-square&amp;labelColor=1A0D08&amp;color=F97316" alt="Backend Engineering"/>
