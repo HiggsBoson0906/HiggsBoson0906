@@ -22,7 +22,7 @@
 
 <p align="center">
   <img
-    src="./assets/tech-stack-carousel.gif"
+    src="./tech-stack-carousel.gif"
     alt="Animated rotating tech stack carousel"
     width="100%"
   />
