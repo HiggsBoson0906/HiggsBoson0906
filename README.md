@@ -1,7 +1,20 @@
-<!-- ═══════════════ CAPSULE · HEADER ═══════════════ -->
-<div align="center">
+<!-- PHOENIX INTRO -->
+<p align="center">
+  <img
+    src="./phoenix-readme.gif"
+    width="100%"
+    alt="Tejasvi Mahule — Phoenix Intro"
+  />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F1D1D,50:EA580C,100:F59E0B&amp;height=220&amp;section=header&amp;text=Tejasvi%20Mahule&amp;fontSize=54&amp;fontColor=FFF7ED&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Machine%20Learning%20%C2%B7%20Competitive%20Programming&amp;descSize=17&amp;descAlignY=58&amp;descColor=FED7AA" alt="Tejasvi Mahule"/>
+<p align="center">
+  <a href="https://github.com/HiggsBoson0906">
+    <img src="https://img.shields.io/badge/GitHub-HiggsBoson0906-161B22?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/phoenix0907/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 <a href="https://github.com/HiggsBoson0906">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Building+event-driven+backend+systems;Turning+market+data+into+ML+signals;Codeforces+Expert+%C2%B7+LeetCode+1796;Rising+from+every+failed+build" alt="Typing animation"/>
