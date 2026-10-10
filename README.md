@@ -1,170 +1,186 @@
- 
+<!-- ═══════════════ CAPSULE · HEADER ═══════════════ -->
 <div align="center">
 
-  <!-- GitHub Contribution Streak -->
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com/?user=HiggsBoson0906&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
-    alt="GitHub Contribution Streak"
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F1D1D,50:EA580C,100:F59E0B&amp;height=220&amp;section=header&amp;text=Tejasvi%20Mahule&amp;fontSize=54&amp;fontColor=FFF7ED&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Machine%20Learning%20%C2%B7%20Competitive%20Programming&amp;descSize=17&amp;descAlignY=58&amp;descColor=FED7AA" alt="Tejasvi Mahule"/>
+
+<a href="https://github.com/HiggsBoson0906">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Building+event-driven+backend+systems;Turning+market+data+into+ML+signals;Codeforces+Expert+%C2%B7+LeetCode+1796;Rising+from+every+failed+build" alt="Typing animation"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/phoenix0907/"><img src="https://img.shields.io/badge/LinkedIn-1A0D08?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F97316" alt="LinkedIn"/></a>
+<a href="mailto:tmtechz2006@gmail.com"><img src="https://img.shields.io/badge/Email-1A0D08?style=for-the-badge&amp;logo=gmail&amp;logoColor=FBBF24" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/17xOl2WmACaLsY0k-vetwXafyLD9RMerP/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-1A0D08?style=for-the-badge&amp;logo=googledrive&amp;logoColor=EF4444" alt="Portfolio"/></a>
+<a href="https://github.com/HiggsBoson0906?tab=followers"><img src="https://img.shields.io/github/followers/HiggsBoson0906?style=for-the-badge&amp;logo=github&amp;logoColor=F97316&amp;label=Followers&amp;labelColor=1A0D08&amp;color=3B1D12" alt="Followers"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=HiggsBoson0906&amp;hide_border=true&amp;background=1A0D08&amp;stroke=F97316&amp;ring=FBBF24&amp;fire=EF4444&amp;currStreakLabel=F97316&amp;sideLabels=A8A29E&amp;currStreakNum=FFF7ED&amp;sideNums=FFF7ED&amp;dates=78716C&amp;card_width=1180" alt="GitHub Contribution Streak"/>
 
 </div>
 
-<hr/> 
-<hr/>
+<br/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<!-- ═══════════════ 01 // ABOUT ME ═══════════════ -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7F1D1D,50:EA580C,100:F59E0B&amp;height=3" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=26&amp;duration=2800&amp;pause=2400&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=70&amp;lines=01+%2F%2F+ABOUT+ME" alt="About Me"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F59E0B,50:EA580C,100:7F1D1D&amp;height=3" alt=""/>
+</div>
 
+<br/>
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+<h3>Hi, I'm Tejasvi Mahule</h3>
+<ul>
+<li>Computer Science undergraduate at <b>NIT Raipur</b> (Class of 2028).</li>
+<li>Passionate about <b>Full-Stack Development</b>, <b>AI/ML</b> and <b>scalable backend systems</b>.</li>
+<li>Codeforces <b>Expert</b> and CodeChef <b>3&#9733;</b> coder who enjoys solving challenging algorithmic problems.</li>
+<li>Building <b>CloudPulse</b>, a distributed cloud monitoring platform, and <b>Financial Intelligence Terminal (FIT)</b>, a quantitative financial intelligence system.</li>
+<li>Exploring system design, event-driven architectures, machine learning and Generative AI.</li>
+<li>Always learning, building and turning complex ideas into practical solutions.</li>
+<li>Hopelessly obsessed with <b>cats</b>. If there's a cat nearby, my focus is gone and the debugging can wait.</li>
+</ul>
+<p>
+<img src="https://img.shields.io/badge/Backend_Engineering-1A0D08?style=flat-square&amp;labelColor=1A0D08&amp;color=F97316" alt="Backend Engineering"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-1A0D08?style=flat-square&amp;labelColor=1A0D08&amp;color=FBBF24" alt="Distributed Systems"/>
+<img src="https://img.shields.io/badge/Machine_Learning-1A0D08?style=flat-square&amp;labelColor=1A0D08&amp;color=EF4444" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Competitive_Programming-1A0D08?style=flat-square&amp;labelColor=1A0D08&amp;color=FFA116" alt="Competitive Programming"/>
+</p>
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="./cat-funny-cat.gif" alt="Cat working on a laptop" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ 02 // TECH STACK ═══════════════ -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7F1D1D,50:EA580C,100:F59E0B&amp;height=3" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=26&amp;duration=2800&amp;pause=2400&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=70&amp;lines=02+%2F%2F+TECH+STACK" alt="Tech Stack"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F59E0B,50:EA580C,100:7F1D1D&amp;height=3" alt=""/>
+
+<br/>
+
+<img src="./tech-stack-gallery.gif" alt="Animated rotating tech stack carousel" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════ 03 // FEATURED PROJECTS ═══════════════ -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7F1D1D,50:EA580C,100:F59E0B&amp;height=3" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=26&amp;duration=2800&amp;pause=2400&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=70&amp;lines=03+%2F%2F+FEATURED+PROJECTS" alt="Featured Projects"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F59E0B,50:EA580C,100:7F1D1D&amp;height=3" alt=""/>
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/HiggsBoson0906/CloudPulse">CloudPulse</a></h3>
+<p align="center"><sub><b>Distributed Cloud Monitoring &amp; Alerting Platform</b></sub></p>
+<p align="center">An event-driven cloud monitoring platform that collects service metrics, tracks system health and supports timely alerts, built on Kafka, Redis and PostgreSQL.</p>
 <p align="center">
-  
-  <img
-      src="./tech-stack-gallery.gif"
-      alt="Animated rotating tech stack carousel"
-      width="100%"
-   />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
 </p>
-
-<hr/>
-<hr/>
-<!-- Featured Projects -->
-<h2>🚀 Featured Projects</h2>
-
-<!-- CloudPulse -->
-<h3>☁️ <a href="https://github.com/HiggsBoson0906/CloudPulse">CloudPulse — Distributed Cloud Monitoring &amp; Alerting Platform</a></h3>
-
-> An event-driven cloud monitoring platform designed to collect service metrics, track system health, and support timely alerts. Built around a backend architecture using Kafka, Redis, and PostgreSQL.
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
+<p align="center"><a href="https://github.com/HiggsBoson0906/CloudPulse"><img src="https://img.shields.io/badge/VIEW_PROJECT-1A0D08?style=for-the-badge&amp;logo=github&amp;logoColor=F97316" alt="View CloudPulse"/></a></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/HiggsBoson0906/Financial-Intelligence-Terminal">Financial Intelligence Terminal</a></h3>
+<p align="center"><sub><b>Quant Analytics · Sentiment · Machine Learning</b></sub></p>
+<p align="center">A financial intelligence platform combining quantitative analytics, macroeconomic indicators, sentiment analysis and machine learning to analyze market-moving events and their potential impact.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Machine_Learning-1A0D08?style=flat-square&amp;logo=scikitlearn&amp;logoColor=F97316" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&amp;logoColor=white" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square&amp;logoColor=white" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/NLP-FBBF24?style=flat-square&amp;logoColor=white" alt="NLP"/>
+<img src="https://img.shields.io/badge/Quantitative_Analytics-1A0D08?style=flat-square&amp;logoColor=F97316" alt="Quantitative Analytics"/>
 </p>
+<p align="center"><a href="https://github.com/HiggsBoson0906/Financial-Intelligence-Terminal"><img src="https://img.shields.io/badge/VIEW_PROJECT-1A0D08?style=for-the-badge&amp;logo=github&amp;logoColor=FBBF24" alt="View FIT"/></a></p>
+</td>
+</tr>
+</table>
 
-<p>
-  <a href="https://github.com/HiggsBoson0906/CloudPulse">
-    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0A101F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="Explore CloudPulse"/>
-  </a>
-</p>
+<br/>
 
-<hr/>
-
-<!-- Financial Intelligence Terminal -->
-<h3>📈 <a href="https://github.com/HiggsBoson0906/Financial-Intelligence-Terminal">Financial Intelligence Terminal (FIT)</a></h3>
-
-> A financial intelligence platform combining quantitative analytics, macroeconomic indicators, sentiment analysis, and machine learning to analyze market-moving events and their potential impact.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-0A101F?style=flat-square&amp;logo=scikitlearn&amp;logoColor=22D3EE" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&amp;logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square&amp;logoColor=white" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/NLP-A78BFA?style=flat-square&amp;logoColor=white" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Quantitative_Analytics-0A101F?style=flat-square&amp;logoColor=22D3EE" alt="Quantitative Analytics"/>
-</p>
-
-<p>
-  <a href="https://github.com/HiggsBoson0906/Financial-Intelligence-Terminal">
-    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0A101F?style=for-the-badge&amp;logo=github&amp;logoColor=A78BFA" alt="Explore FIT"/>
-  </a>
-</p>
-
-<hr/>
-
-<!-- Competitive Programming -->
-<h2>⚔️ Competitive Programming</h2>
-
+<!-- ═══════════════ 04 // COMPETITIVE PROGRAMMING ═══════════════ -->
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7F1D1D,50:EA580C,100:F59E0B&amp;height=3" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=26&amp;duration=2800&amp;pause=2400&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=70&amp;lines=04+%2F%2F+COMPETITIVE+PROGRAMMING" alt="Competitive Programming"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F59E0B,50:EA580C,100:7F1D1D&amp;height=3" alt=""/>
 
-  <i>Solving problems. Sharpening logic. Competing to improve.</i>
+<br/>
 
-  <br/><br/>
+<i>Solving problems. Sharpening logic. Competing to improve.</i>
 
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://codeforces.com/profile/Qute_009">
-          <img src="https://img.shields.io/badge/CODEFORCES-1625-0A101F?style=for-the-badge&amp;logo=codeforces&amp;logoColor=22D3EE" alt="Codeforces Rating 1625"/>
-        </a>
-        <br/>
-        <strong>EXPERT</strong>
-        <br/>
-        <sub>Peak Rating: 1625</sub>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://www.codechef.com/users/phoenix2006">
-          <img src="https://img.shields.io/badge/CODECHEF-1604-0A101F?style=for-the-badge&amp;logo=codechef&amp;logoColor=A78BFA" alt="CodeChef Rating 1604"/>
-        </a>
-        <br/>
-        <strong>3★ CODER</strong>
-        <br/>
-        <sub>Peak Rating: 1604</sub>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://leetcode.com/u/Qute_009/">
-          <img src="https://img.shields.io/badge/LEETCODE-1796-0A101F?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode Rating 1796"/>
-        </a>
-        <br/>
-        <strong>804 PROBLEMS SOLVED</strong>
-        <br/>
-        <sub>Contest Rating: 1796</sub>
-      </td>
-    </tr>
-  </table>
+<br/><br/>
 
-  <br/>
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://codeforces.com/profile/Qute_009"><img src="https://img.shields.io/badge/CODEFORCES-1625-1A0D08?style=for-the-badge&amp;logo=codeforces&amp;logoColor=F97316" alt="Codeforces Rating 1625"/></a>
+<br/><br/>
+<b>EXPERT</b><br/>
+<sub>Peak Rating: 1625</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.codechef.com/users/phoenix2006"><img src="https://img.shields.io/badge/CODECHEF-1604-1A0D08?style=for-the-badge&amp;logo=codechef&amp;logoColor=FBBF24" alt="CodeChef Rating 1604"/></a>
+<br/><br/>
+<b>3&#9733; CODER</b><br/>
+<sub>Peak Rating: 1604</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://leetcode.com/u/Qute_009/"><img src="https://img.shields.io/badge/LEETCODE-1796-1A0D08?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode Rating 1796"/></a>
+<br/><br/>
+<b>804 PROBLEMS SOLVED</b><br/>
+<sub>Contest Rating: 1796</sub>
+</td>
+</tr>
+</table>
 
-  <img src="https://img.shields.io/badge/Data_Structures-22D3EE?style=flat-square" alt="Data Structures"/>
-  <img src="https://img.shields.io/badge/Algorithms-A78BFA?style=flat-square" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-FFA116?style=flat-square" alt="Problem Solving"/>
+<br/>
 
+<img src="https://img.shields.io/badge/Data_Structures-1A0D08?style=flat-square&amp;labelColor=1A0D08&amp;color=F97316" alt="Data Structures"/>
+<img src="https://img.shields.io/badge/Algorithms-1A0D08?style=flat-square&amp;labelColor=1A0D08&amp;color=FBBF24" alt="Algorithms"/>
+<img src="https://img.shields.io/badge/Problem_Solving-1A0D08?style=flat-square&amp;labelColor=1A0D08&amp;color=FFA116" alt="Problem Solving"/>
 </div>
 
-<hr/>
+<br/>
 
-<!-- GitHub Contribution Snake -->
+<!-- ═══════════════ 05 // GITHUB ACTIVITY ═══════════════ -->
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7F1D1D,50:EA580C,100:F59E0B&amp;height=3" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=26&amp;duration=2800&amp;pause=2400&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=70&amp;lines=05+%2F%2F+GITHUB+ACTIVITY" alt="GitHub Activity"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F59E0B,50:EA580C,100:7F1D1D&amp;height=3" alt=""/>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/HiggsBoson0906/HiggsBoson0906/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/HiggsBoson0906/HiggsBoson0906/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/HiggsBoson0906/HiggsBoson0906/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
+<br/>
 
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiggsBoson0906&amp;layout=compact&amp;hide_border=true&amp;bg_color=1A0D08&amp;title_color=F97316&amp;text_color=A8A29E" alt="Top Languages"/>
+
+<br/>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiggsBoson0906/HiggsBoson0906/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiggsBoson0906/HiggsBoson0906/output/github-snake.svg"/>
+<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/HiggsBoson0906/HiggsBoson0906/output/github-snake.svg" width="100%"/>
+</picture>
 </div>
 
-<hr/>
-
-<!-- Connect With Me -->
-<h2>🌐 Connect With Me</h2>
-
+<!-- ═══════════════ CAPSULE · FOOTER ═══════════════ -->
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/phoenix0907/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tmtechz2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&amp;logo=gmail&amp;logoColor=22D3EE" alt="Email"/>
-  </a>
-  <a href="https://drive.google.com/file/d/17xOl2WmACaLsY0k-vetwXafyLD9RMerP/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&amp;logo=google-drive&amp;logoColor=A78BFA" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/HiggsBoson0906">
-    <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&amp;logo=github&amp;logoColor=10B981" alt="GitHub"/>
-  </a>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F1D1D,50:EA580C,100:F59E0B&amp;height=160&amp;section=footer&amp;text=Rise.%20Build.%20Repeat.&amp;fontSize=26&amp;fontColor=FFF7ED&amp;fontAlignY=68&amp;animation=fadeIn" alt="Footer"/>
 </div>
- 
